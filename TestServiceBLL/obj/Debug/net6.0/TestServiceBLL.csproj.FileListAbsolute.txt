@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\TestServiceBLL\bin\Debug\net6.0\TestServiceBLL.deps.json
+C:\Users\admin\Desktop\TestServiceBLL\bin\Debug\net6.0\TestServiceBLL.dll
+C:\Users\admin\Desktop\TestServiceBLL\bin\Debug\net6.0\TestServiceBLL.pdb
+C:\Users\admin\Desktop\TestServiceBLL\bin\Debug\net6.0\TestDomainENT.dll
+C:\Users\admin\Desktop\TestServiceBLL\bin\Debug\net6.0\TestDomainENT.pdb
+C:\Users\admin\Desktop\TestServiceBLL\obj\Debug\net6.0\TestServiceBLL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TestServiceBLL\obj\Debug\net6.0\TestServiceBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TestServiceBLL\obj\Debug\net6.0\TestServiceBLL.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TestServiceBLL\obj\Debug\net6.0\TestServiceBLL.AssemblyInfo.cs
+C:\Users\admin\Desktop\TestServiceBLL\obj\Debug\net6.0\TestServiceBLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestServiceBLL\obj\Debug\net6.0\TestServiceBLL.csproj.CopyComplete
+C:\Users\admin\Desktop\TestServiceBLL\obj\Debug\net6.0\TestServiceBLL.dll
+C:\Users\admin\Desktop\TestServiceBLL\obj\Debug\net6.0\refint\TestServiceBLL.dll
+C:\Users\admin\Desktop\TestServiceBLL\obj\Debug\net6.0\TestServiceBLL.pdb
+C:\Users\admin\Desktop\TestServiceBLL\obj\Debug\net6.0\ref\TestServiceBLL.dll
+C:\Users\admin\Desktop\TestServiceBLL\bin\Debug\net6.0\TestRepositoryDAL.dll
+C:\Users\admin\Desktop\TestServiceBLL\bin\Debug\net6.0\TestRepositoryDAL.pdb

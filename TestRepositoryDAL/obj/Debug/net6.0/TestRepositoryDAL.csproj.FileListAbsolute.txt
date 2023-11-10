@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\TestRepositoryDAL\bin\Debug\net6.0\TestRepositoryDAL.deps.json
+C:\Users\admin\Desktop\TestRepositoryDAL\bin\Debug\net6.0\TestRepositoryDAL.dll
+C:\Users\admin\Desktop\TestRepositoryDAL\bin\Debug\net6.0\TestRepositoryDAL.pdb
+C:\Users\admin\Desktop\TestRepositoryDAL\bin\Debug\net6.0\TestDomainENT.dll
+C:\Users\admin\Desktop\TestRepositoryDAL\bin\Debug\net6.0\TestDomainENT.pdb
+C:\Users\admin\Desktop\TestRepositoryDAL\obj\Debug\net6.0\TestRepositoryDAL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TestRepositoryDAL\obj\Debug\net6.0\TestRepositoryDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TestRepositoryDAL\obj\Debug\net6.0\TestRepositoryDAL.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TestRepositoryDAL\obj\Debug\net6.0\TestRepositoryDAL.AssemblyInfo.cs
+C:\Users\admin\Desktop\TestRepositoryDAL\obj\Debug\net6.0\TestRepositoryDAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestRepositoryDAL\obj\Debug\net6.0\TestRepositoryDAL.csproj.CopyComplete
+C:\Users\admin\Desktop\TestRepositoryDAL\obj\Debug\net6.0\TestRepositoryDAL.dll
+C:\Users\admin\Desktop\TestRepositoryDAL\obj\Debug\net6.0\refint\TestRepositoryDAL.dll
+C:\Users\admin\Desktop\TestRepositoryDAL\obj\Debug\net6.0\TestRepositoryDAL.pdb
+C:\Users\admin\Desktop\TestRepositoryDAL\obj\Debug\net6.0\ref\TestRepositoryDAL.dll
